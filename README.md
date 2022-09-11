@@ -1,5 +1,4 @@
 # Codility Challenges
-## Repository for storing my solutions to the Codility Challenges
 https://app.codility.com/programmers/challenges/
 
 ## Results
