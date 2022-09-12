@@ -1,4 +1,4 @@
-# Codility Challenges
+# Codility - Challenges
 https://app.codility.com/programmers/challenges/
 
 ## Results
